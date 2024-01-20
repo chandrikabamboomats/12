@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Analog Clock 4</title>
+        <link rel="stylesheet"
+        href="./style.css">
+
+    </head>
+    <body>
+        <section class="clock">
+            <div class="seconds"></div>
+            <div class="minutes"></div>
+            <div class="minute">44</div>
+            <div class="hout"></div>
+        </section>
+        <script src="./script.js"></script>
+    </body>
+</html>
